@@ -1,0 +1,58 @@
+Satellite_ID,Name,Launch_Date,Status,Operator,Orbit_Type
+SAT001,Hubble,1990-04-24,Operational,NASA,Low Earth Orbit
+SAT002,James Webb,2021-12-25,Operational,NASA/ESA/CSA,L2 Orbit
+SAT003,Galaxy 3,1996-02-20,Standby,JAXA,L2 Orbit
+SAT004,Quantum 4,1989-03-06,Standby,Roscosmos,Lunar Orbit
+SAT005,Galaxy 5,2000-02-09,Mission Complete,SpaceX,Lunar Orbit
+SAT006,Terra 6,1983-12-02,Standby,UKSA,L2 Orbit
+SAT007,Voyager 7,1996-11-23,Operational,ISRO,L2 Orbit
+SAT008,Galaxy 8,1998-09-16,Operational,Roscosmos,Low Earth Orbit
+SAT009,Artemis 9,1989-07-22,Operational,Roscosmos,L2 Orbit
+SAT010,Stellar 10,1982-04-22,Mission Complete,NASA,Polar Orbit
+SAT011,Quantum 11,1983-05-19,Standby,CSA,Geostationary Orbit
+SAT012,Quantum 12,1982-03-20,Standby,Roscosmos,L2 Orbit
+SAT013,Quantum 13,1999-09-01,Standby,NASA,Low Earth Orbit
+SAT014,Stellar 14,2010-07-23,Experimental,UKSA,Polar Orbit
+SAT015,Sentinel 15,1980-01-20,Mission Complete,ISRO,Geostationary Orbit
+SAT016,Terra 16,2010-10-13,Standby,ESA,Polar Orbit
+SAT017,Pathfinder 17,1988-02-19,Decommissioned,ESA,Sun-Synchronous Orbit
+SAT018,Galaxy 18,2009-09-26,Decommissioned,JAXA,Low Earth Orbit
+SAT019,Stellar 19,2007-10-11,Decommissioned,CSA,Lunar Orbit
+SAT020,Galaxy 20,1988-12-03,Decommissioned,CNSA,Lunar Orbit
+SAT021,Lunar 21,1998-02-18,Decommissioned,ESA,Lunar Orbit
+SAT022,Stellar 22,2012-07-20,Mission Complete,SpaceX,Sun-Synchronous Orbit
+SAT023,Sentinel 23,1999-02-25,Decommissioned,SpaceX,Low Earth Orbit
+SAT024,Terra 24,2019-01-12,Decommissioned,ESA,Sun-Synchronous Orbit
+SAT025,Pathfinder 25,2011-02-01,Operational,DLR,L2 Orbit
+SAT026,Galaxy 26,2008-10-19,Operational,CNSA,Sun-Synchronous Orbit
+SAT027,Quantum 27,2019-07-27,Standby,Roscosmos,Low Earth Orbit
+SAT028,Voyager 28,1989-04-06,Standby,DLR,Sun-Synchronous Orbit
+SAT029,Sentinel 29,2010-09-01,Mission Complete,NASA,Polar Orbit
+SAT030,Voyager 30,2017-11-18,Standby,DLR,Sun-Synchronous Orbit
+SAT031,Galaxy 31,2010-02-26,Mission Complete,JAXA,L2 Orbit
+SAT032,Lunar 32,1998-02-07,Decommissioned,SpaceX,Low Earth Orbit
+SAT033,Galaxy 33,2009-03-22,Experimental,SpaceX,Low Earth Orbit
+SAT034,Quantum 34,1992-08-28,Operational,UKSA,Lunar Orbit
+SAT035,Galaxy 35,1994-11-07,Decommissioned,NASA,Low Earth Orbit
+SAT036,Pathfinder 36,1983-02-07,Decommissioned,ISRO,Lunar Orbit
+SAT037,Voyager 37,1998-10-25,Decommissioned,ISRO,Lunar Orbit
+SAT038,Artemis 38,1989-08-24,Mission Complete,UKSA,Sun-Synchronous Orbit
+SAT039,Sentinel 39,2011-02-20,Mission Complete,NASA,Polar Orbit
+SAT040,Pathfinder 40,2018-11-06,Operational,SpaceX,L2 Orbit
+SAT041,Stellar 41,2019-06-04,Decommissioned,DLR,L2 Orbit
+SAT042,Voyager 42,1987-11-14,Experimental,CNSA,Low Earth Orbit
+SAT043,Lunar 43,1987-02-22,Experimental,NASA,Geostationary Orbit
+SAT044,Quantum 44,1998-08-05,Standby,UKSA,Low Earth Orbit
+SAT045,Galaxy 45,2012-02-27,Experimental,CSA,L2 Orbit
+SAT046,Orbit 46,2010-04-28,Standby,NASA,L2 Orbit
+SAT047,Lunar 47,2008-04-15,Decommissioned,DLR,Lunar Orbit
+SAT048,Voyager 48,1980-05-21,Decommissioned,Roscosmos,Polar Orbit
+SAT049,Terra 49,1981-09-08,Operational,CSA,L2 Orbit
+SAT050,Terra 50,2003-01-13,Standby,CSA,Lunar Orbit
+SAT051,Stellar 51,1984-10-17,Standby,JAXA,Sun-Synchronous Orbit
+SAT052,Pathfinder 52,2001-02-08,Experimental,Roscosmos,Low Earth Orbit
+SAT053,Lunar 53,1994-10-24,Standby,CSA,Sun-Synchronous Orbit
+SAT054,Voyager 54,1991-10-25,Experimental,ISRO,Polar Orbit
+SAT055,Sentinel 55,2010-06-06,Standby,SpaceX,L2 Orbit
+SAT056,Orbit 56,2000-07-02,Mission Complete,SpaceX,Lunar Orbit
+SAT057,Terra 57,2019-05-01,Decommissioned,CSA,Low Earth Orbit

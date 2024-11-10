@@ -1,0 +1,58 @@
+Site_ID,Name,Country,Latitude,Longitude
+SITE001,Kennedy Space Center,USA,28.5721,-80.648
+SITE002,Baikonur Cosmodrome,Kazakhstan,45.965,63.305
+SITE003,Rocket Lab Launch Complex 3,UAE,8.4046,149.106
+SITE004,El Arenosillo 4,India,-54.2189,152.426
+SITE005,Pacific Spaceport Complex 5,Australia,-38.2597,-29.9387
+SITE006,San Marco Platform 6,Scotland,26.7667,114.1519
+SITE007,Kourou Space Center 7,USA,-31.967,89.8628
+SITE008,MARS Mid-Atlantic Regional Spaceport 8,Marshall Islands,14.3188,30.6937
+SITE009,Wallops Flight Facility 9,Turkey,10.5234,165.2458
+SITE010,San Marco Platform 10,Kazakhstan,50.6757,-130.6846
+SITE011,Andøya Space 11,New Zealand,-5.8278,-178.4906
+SITE012,Musudan-ri Launch Facility 12,Sweden,17.9232,175.479
+SITE013,Cape Canaveral 13,Australia,-18.5548,-66.5979
+SITE014,Zhuhai Airshow Launch Pad 14,Russia,-30.0386,-155.8521
+SITE015,Spaceport Cornwall 15,China,10.7771,-159.8921
+SITE016,Shahrud Missile Test Site 16,China,-52.8064,109.3364
+SITE017,Scotland Launch Site 17,Marshall Islands,7.2324,-110.521
+SITE018,Plesetsk Cosmodrome 18,Russia,58.4219,4.4241
+SITE019,SaxaVord Spaceport 19,Kenya,2.2018,-102.7264
+SITE020,Kuril Island Space Center 20,Israel,-44.0215,-29.2023
+SITE021,Rocket Lab Launch Complex 21,USA,51.6958,115.3679
+SITE022,Spaceport Cornwall 22,USA,-19.4775,150.0288
+SITE023,Wenchang Space Launch Site 23,Norway,-19.5811,51.0196
+SITE024,Rocket Lab Launch Complex 24,New Zealand,15.643,49.5304
+SITE025,Omelek Island Launch Facility 25,Japan,-23.1675,145.7736
+SITE026,Xichang Satellite Launch Center 26,Norway,43.9664,-24.6723
+SITE027,Wenchang Space Launch Site 27,Brazil,31.6814,-26.4248
+SITE028,Spaceport Nova Scotia 28,Scotland,1.2526,47.066
+SITE029,Tanegashima Space Center 29,Kazakhstan,-47.0599,148.5247
+SITE030,Vandenberg Air Force Base 30,Italy,39.3315,-73.8991
+SITE031,Pacific Spaceport Complex 31,Japan,17.8335,138.2599
+SITE032,Palmachim Airbase 32,India,-55.85,-57.1678
+SITE033,Wenchang Space Launch Site 33,Scotland,26.2023,-102.7311
+SITE034,Uchinoura Space Center 34,New Zealand,-28.2559,-26.9121
+SITE035,Kourou Space Center 35,Canada,17.3661,-52.2189
+SITE036,Spaceport Cornwall 36,Japan,39.1606,167.2927
+SITE037,Starchaser Spaceport 37,Marshall Islands,-47.0949,15.3418
+SITE038,Omelek Island Launch Facility 38,India,-10.789,99.8341
+SITE039,Spaceport America 39,USA,-56.4513,3.8599
+SITE040,Palmachim Airbase 40,Kenya,38.612,36.9659
+SITE041,El Arenosillo 41,USA,-54.3443,-93.3722
+SITE042,Satish Dhawan Space Centre 42,Kazakhstan,26.6248,-30.9251
+SITE043,Sea Launch Platform 43,France,28.9735,128.4215
+SITE044,Jiuquan Satellite Launch Center 44,France,-57.513,178.1214
+SITE045,Jiuquan Satellite Launch Center 45,Canada,37.7009,35.6053
+SITE046,Wallops Flight Facility 46,Marshall Islands,30.8083,-143.0357
+SITE047,Alcantara Launch Center 47,Russia,26.4656,13.6529
+SITE048,Spaceport America 48,Kenya,18.5011,-141.7296
+SITE049,Palmachim Airbase 49,USA,55.807,-154.8968
+SITE050,Blue Origin West Texas 50,Japan,16.1926,-128.2719
+SITE051,Shahrud Missile Test Site 51,Turkey,21.7966,-11.8391
+SITE052,Rocket Lab Launch Complex 52,Scotland,31.8029,-142.8661
+SITE053,Broglio Space Center 53,Sweden,8.4046,149.106
+SITE054,Spaceport Nova Scotia 54,China,-54.2189,152.426
+SITE055,SaxaVord Spaceport 55,Kazakhstan,-38.2597,-29.9387
+SITE056,Starchaser Spaceport 56,Turkey,26.7667,114.1519
+SITE057,Spaceport Nova Scotia 57,Canada,-31.967,89.8628

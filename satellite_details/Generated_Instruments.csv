@@ -1,53 +1,53 @@
 Instrument_ID,Satellite_ID,Name,Type,Operational_Date
-INS001,SAT001,Wide Field Camera 3,Camera,2009-05-14
-INS002,SAT002,Near Infrared Camera,Camera,2022-01-01
-INS003,SAT003,Gamma-Ray Spectrometer,Thermometer,2016-05-10
-INS004,SAT004,UV Camera,Thermometer,2023-06-08
-INS005,SAT005,Thermal Imager,Radiometer,2023-11-04
-INS006,SAT006,Gamma-Ray Spectrometer,Radiometer,2014-03-21
-INS007,SAT007,Infrared Radiometer,Camera,2008-10-25
-INS008,SAT008,UV Camera,Magnetometer,2018-09-19
-INS009,SAT009,Magnetic Field Sensor,Thermometer,2009-07-01
-INS010,SAT010,UV Camera,Magnetometer,1996-12-04
-INS011,SAT011,Gamma-Ray Spectrometer,Magnetometer,2024-03-19
-INS012,SAT012,Infrared Radiometer,Magnetometer,1990-05-14
-INS013,SAT013,Gamma-Ray Spectrometer,Radiometer,2023-07-02
-INS014,SAT014,Infrared Radiometer,Imager,1991-11-07
-INS015,SAT015,Magnetic Field Sensor,Radiometer,2011-03-19
-INS016,SAT016,Magnetic Field Sensor,Radiometer,2002-10-20
-INS017,SAT017,Thermal Imager,Imager,1991-12-16
-INS018,SAT018,Infrared Radiometer,Thermometer,2011-09-19
-INS019,SAT019,Gamma-Ray Spectrometer,Imager,2020-10-22
-INS020,SAT020,Infrared Radiometer,Camera,2016-06-16
-INS021,SAT021,Magnetic Field Sensor,Spectrometer,2021-01-17
-INS022,SAT022,Thermal Imager,Camera,2000-01-27
-INS023,SAT023,Magnetic Field Sensor,Imager,2009-05-06
-INS024,SAT024,Infrared Radiometer,Thermometer,2016-02-20
-INS025,SAT025,Infrared Radiometer,Thermometer,2006-01-24
-INS026,SAT026,UV Camera,Thermometer,1993-04-17
-INS027,SAT027,Thermal Imager,Spectrometer,2010-05-06
-INS028,SAT028,Thermal Imager,Camera,2007-06-26
-INS029,SAT029,Gamma-Ray Spectrometer,Thermometer,2005-07-15
-INS030,SAT030,Gamma-Ray Spectrometer,Thermometer,2006-05-08
-INS031,SAT031,Magnetic Field Sensor,Imager,2012-03-23
-INS032,SAT032,Thermal Imager,Magnetometer,2001-08-15
-INS033,SAT033,UV Camera,Radiometer,2007-04-08
-INS034,SAT034,Magnetic Field Sensor,Camera,1994-06-14
-INS035,SAT035,Magnetic Field Sensor,Magnetometer,1998-01-18
-INS036,SAT036,Infrared Radiometer,Thermometer,1991-06-17
-INS037,SAT037,Thermal Imager,Camera,2012-04-05
-INS038,SAT038,Infrared Radiometer,Radiometer,2000-12-04
-INS039,SAT039,Infrared Radiometer,Imager,2019-10-09
-INS040,SAT040,Infrared Radiometer,Spectrometer,2020-02-15
-INS041,SAT041,Thermal Imager,Camera,2019-02-24
-INS042,SAT042,Thermal Imager,Camera,2013-06-16
-INS043,SAT043,UV Camera,Spectrometer,2015-07-25
-INS044,SAT044,Gamma-Ray Spectrometer,Spectrometer,2006-01-12
-INS045,SAT045,Magnetic Field Sensor,Imager,2001-12-02
-INS046,SAT046,UV Camera,Camera,1997-07-01
-INS047,SAT047,Infrared Radiometer,Radiometer,2013-06-03
-INS048,SAT048,Thermal Imager,Radiometer,1995-07-07
-INS049,SAT049,Infrared Radiometer,Spectrometer,1995-06-07
-INS050,SAT050,Magnetic Field Sensor,Camera,2005-05-19
-INS051,SAT051,Gamma-Ray Spectrometer,Thermometer,2014-03-20
-INS052,SAT052,Magnetic Field Sensor,Imager,2001-05-18
+INS001,SAT001,Wide Field Camera 3,Camera,5/14/2009
+INS002,SAT002,Near Infrared Camera,Camera,1/1/2022
+INS003,SAT003,Gamma-Ray Spectrometer,Thermometer,5/10/2016
+INS004,SAT004,UV Camera,Thermometer,6/8/2023
+INS005,SAT005,Thermal Imager,Radiometer,11/4/2023
+INS006,SAT006,Gamma-Ray Spectrometer,Radiometer,3/21/2014
+INS007,SAT007,Infrared Radiometer,Camera,10/25/2008
+INS008,SAT008,UV Camera,Magnetometer,9/19/2018
+INS009,SAT009,Magnetic Field Sensor,Thermometer,7/1/2009
+INS010,SAT010,UV Camera,Magnetometer,12/4/1996
+INS011,SAT011,Gamma-Ray Spectrometer,Magnetometer,3/19/2024
+INS012,SAT012,Infrared Radiometer,Magnetometer,5/14/1990
+INS013,SAT013,Gamma-Ray Spectrometer,Radiometer,7/2/2023
+INS014,SAT014,Infrared Radiometer,Imager,11/7/1991
+INS015,SAT015,Magnetic Field Sensor,Radiometer,3/19/2011
+INS016,SAT016,Magnetic Field Sensor,Radiometer,10/20/2002
+INS017,SAT017,Thermal Imager,Imager,12/16/1991
+INS018,SAT018,Infrared Radiometer,Thermometer,9/19/2011
+INS019,SAT019,Gamma-Ray Spectrometer,Imager,10/22/2020
+INS020,SAT020,Infrared Radiometer,Camera,6/16/2016
+INS021,SAT021,Magnetic Field Sensor,Spectrometer,1/17/2021
+INS022,SAT022,Thermal Imager,Camera,1/27/2000
+INS023,SAT023,Magnetic Field Sensor,Imager,5/6/2009
+INS024,SAT024,Infrared Radiometer,Thermometer,2/20/2016
+INS025,SAT025,Infrared Radiometer,Thermometer,1/24/2006
+INS026,SAT026,UV Camera,Thermometer,4/17/1993
+INS027,SAT027,Thermal Imager,Spectrometer,5/6/2010
+INS028,SAT028,Thermal Imager,Camera,6/26/2007
+INS029,SAT029,Gamma-Ray Spectrometer,Thermometer,7/15/2005
+INS030,SAT030,Gamma-Ray Spectrometer,Thermometer,5/8/2006
+INS031,SAT031,Magnetic Field Sensor,Imager,3/23/2012
+INS032,SAT032,Thermal Imager,Magnetometer,8/15/2001
+INS033,SAT033,UV Camera,Radiometer,4/8/2007
+INS034,SAT034,Magnetic Field Sensor,Camera,6/14/1994
+INS035,SAT035,Magnetic Field Sensor,Magnetometer,1/18/1998
+INS036,SAT036,Infrared Radiometer,Thermometer,6/17/1991
+INS037,SAT037,Thermal Imager,Camera,4/5/2012
+INS038,SAT038,Infrared Radiometer,Radiometer,12/4/2000
+INS039,SAT039,Infrared Radiometer,Imager,10/9/2019
+INS040,SAT040,Infrared Radiometer,Spectrometer,2/15/2020
+INS041,SAT041,Thermal Imager,Camera,2/24/2019
+INS042,SAT042,Thermal Imager,Camera,6/16/2013
+INS043,SAT043,UV Camera,Spectrometer,7/25/2015
+INS044,SAT044,Gamma-Ray Spectrometer,Spectrometer,1/12/2006
+INS045,SAT045,Magnetic Field Sensor,Imager,12/2/2001
+INS046,SAT046,UV Camera,Camera,7/1/1997
+INS047,SAT047,Infrared Radiometer,Radiometer,6/3/2013
+INS048,SAT048,Thermal Imager,Radiometer,7/7/1995
+INS049,SAT049,Infrared Radiometer,Spectrometer,6/7/1995
+INS050,SAT050,Magnetic Field Sensor,Camera,5/19/2005
+INS051,SAT051,Gamma-Ray Spectrometer,Thermometer,3/20/2014
+INS052,SAT052,Magnetic Field Sensor,Imager,5/18/2001
